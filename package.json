@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "start",
-    "start": "node-dev index"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
